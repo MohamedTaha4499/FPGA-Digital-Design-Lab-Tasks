@@ -1,2 +1,2 @@
 # FPGA-Digital-Design-Lab-Tasks
-Verilog code for Labs, Tasks, and assignments for training.
+Verilog Code for Labs, Tasks, and assignments for NTI Summer Training.
